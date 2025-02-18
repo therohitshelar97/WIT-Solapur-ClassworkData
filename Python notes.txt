@@ -1,0 +1,75 @@
+Python 
+founder of python
+Guido Van Rossum-1991
+
+Definition
+1.open-source
+2.platform independent
+3.oops
+4.interpreted
+5.dynamically type
+6.general purpose
+
+##List
+list is an multi collection data types
+list can store multiple values in single variable with
+different data types
+list can allow the duplicate values
+list support to the positive and negative index
+list is a mutable mean we change the data
+list define [], each element of it seperated by commas
+a=[]
+
+2.Tuple
+tuple is also multi collection data types which can multiple value in single variable with the different data types
+tuple allows the duplicate values
+tuple is imutable
+tuple is a sequence data type
+tuple support the index values
+we can add extra value in tuple but we can add two tuples
+()
+
+Dictionary
+it is also the multi collection data types which stores the values in key and values paired, value can be duplicate but key cannot
+in dictionary we access values by key
+dictionary is an order data type
+we can define dictionary by {}
+each paired separated by commas
+we can change the values of dictionary
+
+Set
+set is an unorder multicollection data types
+set not allows the duplicates
+to define the set we use {}
+
+if condition:
+   expressions
+else:
+    expression
+
+
+if condition:
+    expression
+elif condition:
+    expression
+else:
+    expression
+
+initialization
+while condition:
+    expression
+    increment
+
+for variable in range(start,end,step):
+     expression
+
+
+
+
+
+
+
+
+
+
+

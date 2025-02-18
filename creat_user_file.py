@@ -1,0 +1,7 @@
+file = input("Create file with your first name : ")
+f=open(f"{file}.txt","a")
+print("File created successfully'... ")
+name=input("Enter your name : ")
+age=input("Enter your age : ")
+qua=input("Enter your qualification : ")
+f.write(f"\n Name : {name} \n Age : {age} \n Qualification : {qua} \n =======================")
